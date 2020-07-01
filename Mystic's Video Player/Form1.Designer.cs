@@ -151,6 +151,7 @@
             this.ClientSize = new System.Drawing.Size(1004, 535);
             this.Controls.Add(this.axWindowsMediaPlayer1);
             this.Controls.Add(this.toolStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "mysticvideo";
             this.Text = "Mystic\'s Video Player";
             this.toolStrip1.ResumeLayout(false);

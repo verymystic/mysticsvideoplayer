@@ -19,7 +19,8 @@ namespace Mystic_s_Video_Player
 
         private void toolStripButton1_Click_1(object sender, EventArgs e)
         {
-            openFileDialog1.ShowDialog();
+            openFileDialog1.Filter = "Video Files|*.mp4;*.mov;*.wmv;*.flv;*.avi;*.mysticvideo";
+            openFileDialog1.ShowDialog();          
         }
 
         private void toolStripButton2_Click(object sender, EventArgs e)
