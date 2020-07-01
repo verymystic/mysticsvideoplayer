@@ -2,7 +2,7 @@
 
 A simple video player made in Visual Studio 2017
 
-controls: 
+# controls
 
 open: open up your video file
 
