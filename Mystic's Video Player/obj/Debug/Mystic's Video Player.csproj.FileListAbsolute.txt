@@ -1,0 +1,15 @@
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.csprojAssemblyReference.cache
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.csproj.ResolveComReference.cache
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic_s_Video_Player.Properties.Resources.resources
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.csproj.GenerateResource.cache
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.csproj.CoreCompileInputs.cache
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\bin\Debug\Mystic's Video Player.exe.config
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\bin\Debug\Mystic's Video Player.exe
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\bin\Debug\Mystic's Video Player.pdb
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.exe
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic's Video Player.pdb
+C:\Users\chinpocoman\source\repos\Mystic's Video Player\Mystic's Video Player\obj\Debug\Mystic_s_Video_Player.mysticvideo.resources
