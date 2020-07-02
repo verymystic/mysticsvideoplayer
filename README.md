@@ -1,6 +1,8 @@
 # Mystics Video Player
 
-A simple video player made in Visual Studio 2017
+An open source, and simple video player made in Visual Studio 2017 that requires Windows Media Player.
+
+![Screenshot](https://raw.githubusercontent.com/verymystic/mysticsvideoplayer/master/mystic'svideoplayerscreenshot.png)
 
 # controls
 
